@@ -4,7 +4,7 @@
 
 ## To get the project✌️
 ```clone
-(https://github.com/AbdoJoker99/chatbot.git)
+https://github.com/AbdoJoker99/chatbot.git
 ```
 ## The installation of liberaries
 ```bash
